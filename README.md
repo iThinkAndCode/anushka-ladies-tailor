@@ -3,7 +3,7 @@
 Marathi-first, responsive single-page website with scroll-based stitching animation, sewing-inspired transitions, service sections, festival styling ideas, work gallery, owner story, and contact/WhatsApp actions.
 
 ## Assets
-- `assets/aunty.jpg` — latest supplied owner photo
+- `assets/image.jpg` — latest supplied owner photo
 - `assets/banner.png` — updated generated banner using the latest owner photo
 - `assets/blouse.jpg` — blouse work visual
 - `assets/dress.jpg` — dress/fashion visual
